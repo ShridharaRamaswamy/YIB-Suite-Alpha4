@@ -1,0 +1,7 @@
+# Maven-specific
+target/*
+.classpath
+.settings
+.project
+
+
